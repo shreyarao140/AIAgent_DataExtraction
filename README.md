@@ -1,7 +1,7 @@
 # AIAgent_DataExtraction
 # AI Data Assistant  
 
-AI Data Assistant is a full-stack web application designed to provide interactive data analysis and insights. It leverages a language model for querying and interpreting uploaded datasets, offering users an intuitive and streamlined interface for exploring their data.  
+AI Data Assistant is a full-stack web application designed to provide interactive data analysis and insights. It leverages a language model for querying and interpreting uploaded datasets, offering users an intuitive and streamlined interface for exploring their data....
 
 ---
 
